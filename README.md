@@ -1,4 +1,4 @@
-Olá! Sou o Mathäus Hamermüller 
+<h1>Olá! Sou o Mathäus Hamermüller </h1>
 
 
 - 🔭 Estou trabalhando com Front-end
@@ -27,5 +27,3 @@ Olá! Sou o Mathäus Hamermüller
   <a href="https://www.linkedin.com/in/donmathaus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/donmathaus/donmathaus/blob/output/github-contribution-grid-snake.svg)
