@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donmathaus&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donmathaus&layout=compact&langs_count=8&theme=highcontrast)](https://github.com/donmathaus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donmathaus&langs_count=8&theme=highcontrast)](https://github.com/donmathaus/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mathaus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
