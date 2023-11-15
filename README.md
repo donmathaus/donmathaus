@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando com Front-end
-- 🌱 Estudando Python
+- 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donmathaus&show_icons=true&theme=highcontrast)
